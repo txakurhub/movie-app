@@ -26,11 +26,12 @@ Create a single page application for a movie catalog in which different titles c
   </br>
   Detail view
   </br>
-  <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1655573711/movieapp/detail_2_z18mga.jpg' alt='movieapp-detail' />
+  <img src='http://res.cloudinary.com/ddkurzft6/image/upload/v1655574597/movieapp/detail_2_z18mga.jpg' alt='movieapp-detail' />
   </br>
   Responsive view
   </br>
-  <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1655573711/movieapp/detail_responsive_1_gzn5is.jpg' alt='movieapp-responsivehome' />
+  <img src='http://res.cloudinary.com/ddkurzft6/image/upload/v1655574755/movieapp/detail_responsive_1_gzn5is.jpg' alt='movieapp-responsivehome' />
+
 </p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

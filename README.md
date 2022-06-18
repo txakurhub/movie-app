@@ -22,7 +22,7 @@ Create a single page application for a movie catalog in which different titles c
 <p align='center'>
   Home
   </br>
-    <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1655573712/movieapp/home_1_prcfrs.jpg' alt='movieapp-home' />
+    <img src='https://res-console.cloudinary.com/ddkurzft6/thumbnails/transform/v1/image/upload//v1655574316/bW92aWVhcHAvaG9tZV8xX3ByY2Zycw==/drilldown' alt='movieapp-home' />
   </br>
   Detail view
   </br>

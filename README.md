@@ -2,7 +2,7 @@
 
 ## Project Objectives
 
-- Building an single page app with React, Redux and CSS.
+- Building a single page app with React, Redux and CSS.
 - Working with an API.
 - Learning and applying Git Flow.
 - Responsive design.

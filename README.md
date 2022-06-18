@@ -1,14 +1,20 @@
+# Practice Project - Movie App
 <p align='center'>
   Home
+  </br>
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1655573712/movieapp/home_1_prcfrs.jpg' alt='movieapp-home' />
-  Detail view  
+  </br>
+  Detail view
+  </br>
   <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1655573711/movieapp/detail_2_z18mga.jpg' alt='movieapp-detail' />
-  Responsive view  
+  </br>
+  Responsive view
+  </br>
   <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1655573711/movieapp/detail_responsive_1_gzn5is.jpg' alt='movieapp-responsivehome' />
 
 </p>
 
-# Practice Project - Movie App
+
 
 ## Project Objectives
 

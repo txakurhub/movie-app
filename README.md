@@ -1,4 +1,6 @@
 # Practice Project - Movie App
+</br>
+## Screenshots
 <p align='center'>
   Home
   </br>
